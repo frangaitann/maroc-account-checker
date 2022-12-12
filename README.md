@@ -13,6 +13,8 @@ V1.0 - 12/12/2022
 
 -It works with HBO Max (Just with the English Language Page)
 
+-Works with firefox and geckodriver (firefox not included in requirements.txt)
+
 ------
 
 i´m not responsible about where you obtain the accounts that are being checked or if you use the program with a bad intention.
