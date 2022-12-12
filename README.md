@@ -5,6 +5,7 @@ This program was made for checking if an individual account or a group of them a
 ------
 
 -V1.0 - 12/12/2022
+
 -It works with HBO Max (Just with the English Language Page)
 
 ------
