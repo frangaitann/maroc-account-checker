@@ -9,6 +9,12 @@ email:password
 
 ------
 
+Why "maroc"?
+
+I love Felfort´s Marroc Chocolate, so... Just erase 1 "r" and you got it.
+
+------
+
 V1.0 - 12/12/2022
 
 -It works with HBO Max (Just with the English Language Page)
