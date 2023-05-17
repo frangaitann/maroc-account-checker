@@ -1,0 +1,163 @@
+1670876279820	geckodriver	INFO	Listening on 127.0.0.1:62448
+1670876281870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileHDqEbn"
+*** You are running in headless mode.
+1670876284365	Marionette	INFO	Marionette enabled
+1670876284372	Marionette	INFO	Listening on port 62458
+Read port: 62458
+WebDriver BiDi listening on ws://127.0.0.1:62449
+1670876284536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileHDqEbn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62449/devtools/browser/df487a0a-f7b9-4c12-94e6-5203ad1673b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876299552	Marionette	INFO	Stopped listening on port 62458
+[Parent 9088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 9088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670876303492	geckodriver	INFO	Listening on 127.0.0.1:62516
+1670876305476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileeaNOML"
+*** You are running in headless mode.
+1670876308505	Marionette	INFO	Marionette enabled
+1670876308513	Marionette	INFO	Listening on port 62527
+Read port: 62527
+WebDriver BiDi listening on ws://127.0.0.1:62517
+1670876308673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileeaNOML\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62517/devtools/browser/cf269168-7500-4ca6-a9ba-49d0b2fe7e41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876325517	Marionette	INFO	Stopped listening on port 62527
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 7332, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+[Parent 7332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670876329864	geckodriver	INFO	Listening on 127.0.0.1:62586
+1670876331845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileUGiGDA"
+*** You are running in headless mode.
+1670876333725	Marionette	INFO	Marionette enabled
+1670876333739	Marionette	INFO	Listening on port 62597
+Read port: 62597
+WebDriver BiDi listening on ws://127.0.0.1:62587
+1670876333941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileUGiGDA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62587/devtools/browser/6f624a1c-bd91-426c-9d6f-9efad94b913f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876347924	Marionette	INFO	Stopped listening on port 62597
+[Parent 5656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 5656, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+[Parent 5656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670876353394	geckodriver	INFO	Listening on 127.0.0.1:62666
+1670876355458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileng0qF5"
+*** You are running in headless mode.
+1670876358611	Marionette	INFO	Marionette enabled
+1670876358619	Marionette	INFO	Listening on port 62699
+Read port: 62699
+WebDriver BiDi listening on ws://127.0.0.1:62667
+1670876359013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileng0qF5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 761))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+DevTools listening on ws://127.0.0.1:62667/devtools/browser/bdbb0cdc-7229-47c5-9b92-7aae4ead8d30
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876380116	Marionette	INFO	Stopped listening on port 62699
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670876385691	geckodriver	INFO	Listening on 127.0.0.1:62802
+1670876387697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofilekjg7RV"
+*** You are running in headless mode.
+1670876388929	Marionette	INFO	Marionette enabled
+1670876388937	Marionette	INFO	Listening on port 62812
+Read port: 62812
+WebDriver BiDi listening on ws://127.0.0.1:62803
+1670876389116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofilekjg7RV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62803/devtools/browser/dcc691ab-55cb-4e94-8c3f-ca8032a1d7df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876403523	Marionette	INFO	Stopped listening on port 62812
+[Parent 8064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ita\AppData\Local\Temp\rust_mozprofilekjg7RV\protections.sqlite
+1670876406390	geckodriver	INFO	Listening on 127.0.0.1:62868
+1670876420007	geckodriver	INFO	Listening on 127.0.0.1:62872
+1670876422035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileevRrJy"
+*** You are running in headless mode.
+1670876422795	Marionette	INFO	Marionette enabled
+1670876422802	Marionette	INFO	Listening on port 62882
+Read port: 62882
+WebDriver BiDi listening on ws://127.0.0.1:62873
+1670876422959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileevRrJy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62873/devtools/browser/201b6c2b-a0e9-4d80-a9fa-cbf7dd0e951c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+JavaScript error: https://play.hbomax.com/app.f66713d562f81cfb2792.js, line 1: TypeError: grecaptcha.enterprise.execute is not a function
+JavaScript error: https://play.hbomax.com/app.f66713d562f81cfb2792.js, line 1: TypeError: grecaptcha.enterprise.execute is not a function
+1670876437211	Marionette	INFO	Stopped listening on port 62882
+[Parent 5540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670876440017	geckodriver	INFO	Listening on 127.0.0.1:62939
+1670876442010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileBS6ZoR"
+*** You are running in headless mode.
+1670876442627	Marionette	INFO	Marionette enabled
+1670876442634	Marionette	INFO	Listening on port 62949
+Read port: 62949
+WebDriver BiDi listening on ws://127.0.0.1:62940
+1670876442792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileBS6ZoR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62940/devtools/browser/e987e394-1a26-49c7-b660-3b73ee14b257
+Exiting due to channel error.
+Exiting due to channel error.
+1670876507079	geckodriver	INFO	Listening on 127.0.0.1:62995
+1670876509055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofile6t9hRN"
+*** You are running in headless mode.
+1670876509744	Marionette	INFO	Marionette enabled
+1670876509755	Marionette	INFO	Listening on port 63005
+Read port: 63005
+WebDriver BiDi listening on ws://127.0.0.1:62996
+1670876509943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofile6t9hRN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62996/devtools/browser/00a7b14a-c53a-467c-8b8a-ae379ed7c58a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+JavaScript error: https://play.hbomax.com/app.f66713d562f81cfb2792.js, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://play.hbomax.com/app.f66713d562f81cfb2792.js, line 1: ReferenceError: grecaptcha is not defined
+1670876524841	Marionette	INFO	Stopped listening on port 63005
+[Parent 6528, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670876527763	geckodriver	INFO	Listening on 127.0.0.1:63062
+1670876529762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileH5lpkF"
+*** You are running in headless mode.
+1670876530378	Marionette	INFO	Marionette enabled
+1670876530385	Marionette	INFO	Listening on port 63072
+Read port: 63072
+WebDriver BiDi listening on ws://127.0.0.1:63063
+1670876530678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileH5lpkF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63063/devtools/browser/f4896d30-5f53-4419-b063-61363619703c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://play.hbomax.com."
+1670876545960	Marionette	INFO	Stopped listening on port 63072
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 8844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670876548513	geckodriver	INFO	Listening on 127.0.0.1:63131
+1670876550510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileU3ZXf9"
+*** You are running in headless mode.
+1670876551168	Marionette	INFO	Marionette enabled
+1670876551175	Marionette	INFO	Listening on port 63141
+Read port: 63141
+WebDriver BiDi listening on ws://127.0.0.1:63132
+1670876551329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ita\\AppData\\Local\\Temp\\rust_mozprofileU3ZXf9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63132/devtools/browser/62ce0f7a-a269-42f6-bf15-dab2f21ea2ef

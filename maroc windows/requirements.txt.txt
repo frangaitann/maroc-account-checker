@@ -1,0 +1,2 @@
+geckodriver==0.32.0
+selenium==4.7.2
